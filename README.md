@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @treatmeniceplz
+- 👋 Hi, I’m That1Polish
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning school
 - 💞️ I’m looking to collaborate on code
